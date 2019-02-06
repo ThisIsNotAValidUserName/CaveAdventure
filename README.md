@@ -15,7 +15,7 @@ There are two ways you can play the game: <br>
 >```
 > D:\Java\CaveAdventure\src\
 >```
-> Type the following two commands into your command line to go into the source code folder:
+ Type the following two commands into your command line to go into the source code folder:
 >```
 > D:
 > cd Java\CaveAdventure\src\
