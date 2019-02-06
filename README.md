@@ -10,8 +10,25 @@ Extract the content of the compressed package into any folder you want and you a
 
 ## Usage
 There are two ways you can play the game: <br>
-1. Double click the .exe file.
-2. Play the game in the command line by using "java Main" command.
+1. Load the project into your java IDE, build the project and run.
+2. Play the game in the command line. Suppose the source code is stored in: 
+>```
+> D:\Java\CaveAdventure\src\
+>```
+> Type the following two commands into your command line to go into the source code folder:
+>```
+> D:
+> cd Java\CaveAdventure\src\
+>```
+> Then compile the source code using javac:
+>```
+> javac Main\Main.java
+>```
+> Then type the following commands to start the game:
+>```
+> java Main.Main
+>```
+
 
 ## License
 This game is coded by Di Zhu (U75617455) in Java with Intellij IDEA.
