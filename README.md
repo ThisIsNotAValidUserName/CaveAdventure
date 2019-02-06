@@ -15,19 +15,16 @@ There are two ways you can play the game: <br>
 >```
 > D:\Java\CaveAdventure\src\
 >```
-<br>
 Type the following two commands into your command line to go into the source code folder:
 >```
 > D:
 > cd Java\CaveAdventure\src\
 >```
-<br>
-Then compile the source code using javac:
+Compile the source code using javac:
 >```
 > javac Main\Main.java
 >```
-<br>
-Then type the following commands to start the game:
+Type the following commands to start the game:
 >```
 > java Main.Main
 >```
