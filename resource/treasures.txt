@@ -1,0 +1,4 @@
+golden sword#true
+golden shield#true
+golden helmet#true
+silver tray of life#false
