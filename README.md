@@ -1,4 +1,5 @@
 # CaveAdventure
+CS 591 P1 Object-Orientation Assignment 1
 
 ## Introduction
 CaveAdventure is a word adventure game. <br> 
